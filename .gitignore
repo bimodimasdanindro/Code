@@ -1,0 +1,35 @@
+/.DS_Store
+/CAE.ipynb
+/CAE_Torch.ipynb
+/CAE_biconv_color.ipynb
+/CAE_biconv_color_optimized__refined.ipynb
+/CAE_torch_display.ipynb
+/CAE_torchv2_TSSplit.ipynb
+/CAE_torchv2_TSSplit_v2.ipynb
+/CAE_torchv2_TSSplit_v3_biconv2.ipynb
+/CAE_torchv2_TSSplit_v3_convlstm_hybrid loss.ipynb
+/Conv_LSTM.ipynb
+/Dataset
+/Error saat run full data d PC IVS Lab.docx
+/HSVtoRGB.ipynb
+/Performance Analysis.ipynb
+/S2_baselines_cloud_motion.py
+/Stage1_CAE_ConvLSTM_HybridLoss.ipynb
+/Stage2_followStage1_refined_patched_fixquotes.ipynb
+/Stage2_integrated_fixed.ipynb
+/cae_best.pth
+/cae_final.pth
+/cae_unet_convlstm_scale.py
+/cropping.zip
+/dataload.ipynb
+/dataload_color.ipynb
+/dataload_color_Oktober.ipynb
+/img_bgr
+/predict_full-model.ipynb
+/preparing training.ipynb
+/runs
+/runs-s2
+/simple_unet.py
+/simple_unet_v2.py
+/test_stage1.py
+/test_stage2.py
